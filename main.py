@@ -38,5 +38,3 @@ if __name__ == "__main__":
         continue_choice = input("countinue? (yes/no): ").strip().lower()
         if continue_choice != 'yes':
             break
-
-#.
